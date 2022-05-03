@@ -1,7 +1,7 @@
 # Hi there 👋
 
-### I'm Natalia from Berlin, 
-### self-motivated and passionate full stack web developer with focus on frontend and design.
+### I'm Natalia from Berlin,        
+self-motivated and passionate full stack web developer with focus on frontend and design.
 
 <br>
 
